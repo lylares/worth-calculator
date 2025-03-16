@@ -116,7 +116,6 @@ const SalaryCalculator = () => {
           <div className="flex items-center gap-2">
             <span className="text-blue-500 dark:text-blue-400 font-medium">
               <span className="animate-pulse">✨</span> 
-              持续更新中，期待您的宝贵建议 
               <span className="animate-pulse">✨</span>
             </span>
           </div>
